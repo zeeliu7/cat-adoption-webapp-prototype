@@ -1,5 +1,5 @@
 # Cat Adoption WebApp Prototype
-A course project to create a web application prototype for a cat adoption center using JavaScript and React
+A course project to create a web application prototype for a cat adoption center using JavaScript and React, which allows people to place cats into wish-lists and adopt them with instant and consistent data updates.
 
 ![](_figures/step2.png)
 
