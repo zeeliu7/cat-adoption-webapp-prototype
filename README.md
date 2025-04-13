@@ -4,3 +4,5 @@ A course project to create a web application prototype for a cat adoption center
 ![](_figures/step2.png)
 
 ![](_figures/step6.png)
+
+![](_figures/step8.png)
