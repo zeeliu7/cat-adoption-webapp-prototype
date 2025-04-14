@@ -6,6 +6,7 @@ To run the website, type the following in terminal
 npm install
 npm run dev
 ```
+and then open `localhost:5173` in the browser.
 
 ![](_figures/step2.png)
 
